@@ -1,0 +1,211 @@
+/* 
+
+*{
+    margin: 0;
+}
+.ContainerMain{
+    background-image: url(https://static.wixstatic.com/media/647652_3e566fa221034b488c32915fa0bf191f~mv2.jpg/v1/fill/w_1200,h_541,al_c,q_85,enc_auto/647652_3e566fa221034b488c32915fa0bf191f~mv2.jpg);
+}
+.yellow{
+    background-color:rgb(244,136,1);
+    height: 60px;
+
+}
+.text1{
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    font-size: 25px;
+    font-weight:400;
+}
+.black{
+    background-color: black;
+    height: 50px;
+}
+.place{
+    position: absolute;
+    top: 70px;
+    color:rgb(244,136,1) ;
+   margin-left: 17%;
+   font-size: medium;
+}
+.loc{
+    position: absolute;
+    top: 72px;
+    left: 30%;
+    height: 30px;
+    width: 30px;
+}
+input{
+    left: 35%;
+    padding-right: 25%;
+    width: 40%;
+    position: absolute;
+    padding-top: 10px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 5px;
+    margin-top: 7px;
+    border: none;
+    color: #f0f8ff
+   
+}
+.login{
+    position: absolute;
+    top: 70px;
+    color:rgb(244,136,1) ;
+   margin-left: 87%;
+   font-size: medium;
+   text-decoration: none;
+   
+    
+}
+.container-fluid{
+    margin-top: 0;
+    background-color: rgb(47, 47, 47);
+}
+.container-fluid a{
+    color:rgb(244,136,1);
+}
+
+
+
+.img{
+    border-radius: 50%;
+    height: 100px;
+
+    align-content: space-between;
+ 
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.ehome{
+    text-align: center;
+    color: rgb(244,136,1);
+    font-weight: bolder;
+    font-size: 60px;
+}
+.frame{
+    display: flex;
+}
+
+.heading{
+    background-color:rgb(244,136,1);
+    width: 150px;
+    color: white;
+    font-size:15px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.details{
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.price{
+    color: white;
+    font-size: 20px;
+}
+.f1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgg{
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+}
+.img2{
+    margin-top: 30px;
+  position: relative;
+  margin-left: 40px;
+  width: 1200px;
+}
+ul li{
+font-size: 18px;
+font-weight:500;
+}
+.head{
+    color: white;
+  padding-left: 27px;
+  padding-right: 20px;
+  font-size: 15px;
+}
+.vide{
+    height: 400px;
+    width: 700px;
+    margin-left: 230px;
+}
+.Dream{
+    margin-top: 20px;
+    height: 250px;
+    margin-left: 180px;
+    border-radius: 20px;
+    width: 400px;
+   
+}
+.rating{
+    background-color:rgb(244,136,1);
+    width: 400px;
+    height: 80px;
+    border-radius: 20px;
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 50%;
+   /* margin-bottom: 80px; }*/
+
+
+/* .rating div{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.candle{
+
+    height: 200px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.slide{
+    height: 450px;
+    width: 1000px;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 11%;
+
+}
+.clas{
+    height: 400px;
+    margin: 30px;
+margin-left: 100px;
+border-radius: 0 0 150px 150px;
+}
+.clas1{
+    height: 400px;
+    margin: 30px;
+margin-left: 100px;
+border-radius: 150px 150px 0 0;
+}
+.foot{
+    background-color:rgb(244,136,1);
+    height:300px ;
+}
+/* .chat{
+    background-color:black ;
+    width: 200px;
+    height: 55px;
+    border-radius: 30px;
+    color: white;
+  
+
+} */
+
+/* h4{
+    color: white;
+}  */

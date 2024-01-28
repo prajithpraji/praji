@@ -1,0 +1,55 @@
+.container{
+    border: 2px solid red;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+    display:flex; 
+    flex-direction: column; 
+    height: 260px;
+    width: 500px;
+    background-color:lightpink ;
+    box-shadow: 2px 2px 2px 3px  black;
+    
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: antiquewhite;
+}
+.labelg{
+    font-size: x-large;
+    font-weight: bolder;
+color: brown;
+text-decoration: double;
+text-shadow: 2px 2px 2px gray;    
+}
+.inpg{
+    
+    border-radius: 10px solid red;
+    background-color: gainsboro;
+}
+.hg{
+    /* font-size: x-large; */
+    font-weight: bolder;
+color: brown;
+text-decoration: double;
+text-shadow: 2px 2px 2px gray;  
+ 
+}
+.hg {
+    animation-duration: 1s;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fadeIn {
+    animation-name: fadeIn;
+  }
+  
